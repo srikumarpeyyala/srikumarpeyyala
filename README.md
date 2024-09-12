@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @srikumarpeyyala
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Srikumar
+- 👀 Data Science ML/AI enthusiast
 - 💞️ I’m looking to collaborate on an Integrated System
 - 📫 How to reach me my_email: srikumarpeyyala153@gmail.com
 
